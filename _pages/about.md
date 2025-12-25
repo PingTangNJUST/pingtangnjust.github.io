@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ping Tang (唐平)"
+title: "Ping Tang (汤平)"
 author_profile: true
 redirect_from: 
   - /about/
